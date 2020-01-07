@@ -1,0 +1,1 @@
+This is sams first git project!
